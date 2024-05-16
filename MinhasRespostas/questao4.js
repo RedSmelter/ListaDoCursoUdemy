@@ -4,3 +4,4 @@ function restoDeDivisao(dividendo, divisor){
 
 restoDeDivisao(7,3)
 restoDeDivisao(4,2)
+restoDeDivisao(10,3)
