@@ -22,10 +22,9 @@ function manipuladosDiretamente(num1, num2){
     subtracao = num1 - num2
     multiplicacao = num1 * num2
     divisao = num1/num2
-    
-    return console.log(`Soma: ${soma} Subtração: ${subtracao}
-    Multiplicação: ${multiplicacao} Divisão: ${divisao}`)
+
+    return console.log(`Soma: ${soma} Subtração: ${subtracao} Multiplicação: ${multiplicacao} Divisão: ${divisao}`)
 
 }
 
-console.log(manipuladosDiretamente(10,20))
+manipuladosDiretamente(10,20)
